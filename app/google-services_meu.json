@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191627061634",
+    "project_id": "playlist-17bf0",
+    "storage_bucket": "playlist-17bf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191627061634:android:1bb472bc43e50e357bc79b",
+        "android_client_info": {
+          "package_name": "com.aula.playlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnusZQC2P8fWi5OL1U6_LinL3Sw-iwmBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
